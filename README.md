@@ -88,6 +88,10 @@ The system includes key components:
 - **Database**: SQLite
 - **Hosting**: Compatible with AWS, DigitalOcean, Heroku, etc.
 
+## Login Credentials
+- **Username**:**Admin1**
+- **Password**:**Pride@123**
+   
 ## Future Enhancements
 
 - **Mobile App**: A companion app for mobile order tracking and management.
