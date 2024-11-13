@@ -1,5 +1,5 @@
 # GreenTech
-Green Tech Energy is an online platform created by me as an Admin for selling and managing solar panel products. This project, which is my major internship for the MCA final year, aims to digitize traditional energy solutions. It provides a 24/7 accessible online store, secure payment methods, and real-time inventory management to enhance user convenience..
+Green Tech Energy is an online platform created by me as an Admin for selling and managing solar panel products. This project, which is my major internship for the MCA final year, aims to digitize traditional energy solutions. It provides a 24/7 accessible online store, secure payment methods, and real-time inventory management to enhance user convenience.
 
 # Green Tech Energy Solar Panel Website
 ## Introduction
